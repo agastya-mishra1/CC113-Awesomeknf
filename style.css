@@ -1,0 +1,18 @@
+body{
+    background-color: aqua;
+    border-color:red;
+    border-width: 20px;
+    border-style: ridge;
+}
+
+#Title{
+font-size: 50px;
+width:800px;
+}
+#snap{
+    height: 45px;
+    width:400px;
+    font-size: 30px;
+    background-color: darkgreen;
+    color:white;
+}
